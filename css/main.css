@@ -1,0 +1,44 @@
+footer {
+	margin-top: 30px;
+}
+h1 {
+	padding-bottom: 15px;
+}
+#yw0 {
+	margin-left:2px;
+}
+#capRe {
+	font-size: 38px;
+	display: inline-block;
+  	vertical-align: middle;
+}
+#ContactForm_verifyCode {
+	width:160px;
+}
+.button-column { 
+	border-left: 1px solid black;
+	text-align: center;
+}
+.edit-button:hover {
+	text-decoration: none;
+}
+.sort-link {
+	color: white;
+	text-align: center;
+	width: 100%;
+	height: auto;
+}
+.sort-link:hover {
+	text-decoration: none;
+	color: white;
+}
+.jumbotron {
+	background: url('../images/jumbo2.jpg');
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 70vh;
+}
+.jumbotron h1 {
+	color: white;
+}
